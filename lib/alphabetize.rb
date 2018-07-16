@@ -8,4 +8,5 @@ def alphabetize(arr)
     elsif a < b
       -1
     end
+  end
 end
